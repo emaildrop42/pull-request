@@ -1,0 +1,3 @@
+This file was also created in the feature one branch
+
+One more change in feature-1 branch
